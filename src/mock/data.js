@@ -23,7 +23,7 @@ export const aboutData = {
   paragraphTwo:
     'I usually travel from my former residence in Brooklyn, NY to my current one in Houston, Texas, and am open to opportunities in either city. Some of my other aspersions, are to be an Officer in the United States Air Force and eventually start my own cybersecurity company."',
   paragraphThree: '"Your time is limited, so don’t waste it living someone else’s life."',
-  resume: 'https://www.resumemaker.online/es.php', // if no resume, the button will not show up
+  resume: '', // if no resume, the button will not show up
 };
 
 // PROJECTS DATA
