@@ -24,7 +24,7 @@ export const aboutData = {
     'My philosophy is to never stop learning; so naturally, I enjoy stepping outside of my comfort zone to learn new skills - even if it’s not tech-related. I usually travel from my former residence in Brooklyn, NY to my current one in Houston, Texas, and am open to opportunities in either city. Some of my aspersions are to be an Officer in the United States Air Force, and eventually start my own tech start-up.',
 
   paragraphThree:
-    '"Favorite quotes: “Stay hungry, stay foolish”,        “Have the courage to follow your heart and intuition. They somehow already know what you truly want to become. Everything else is secondary.”,            “Your time is limited, so don’t waste it living someone else’s life.”,            " Amat Victoria Curam ""',
+    'Favorite quotes: “Stay hungry, stay foolish”,        “Have the courage to follow your heart and intuition. They somehow already know what you truly want to become. Everything else is secondary.”,            “Your time is limited, so don’t waste it living someone else’s life.”,            " Amat Victoria Curam "',
   // if no resume, the button will not show up
 };
 
