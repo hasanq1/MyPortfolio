@@ -24,7 +24,7 @@ export const aboutData = {
     'My philosophy is to never stop learning; so naturally, I enjoy stepping outside of my comfort zone to learn new skills - even if it’s not tech-related. I usually travel from my former residence in Brooklyn, NY to my current one in Houston, Texas, and am open to opportunities in either city. Some of my aspersions are to be an Officer in the United States Air Force, and eventually start my own tech start-up.',
 
   paragraphThree:
-    '"Favorite quotes: “Stay hungry, stay foolish” “Have the courage to follow your heart and intuition. They somehow already know what you truly want to become. Everything else is secondary.” “Your time is limited, so don’t waste it living someone else’s life.” " Amat Victoria Curam ""',
+    '"Favorite quotes: “Stay hungry, stay foolish”,        “Have the courage to follow your heart and intuition. They somehow already know what you truly want to become. Everything else is secondary.”,            “Your time is limited, so don’t waste it living someone else’s life.”,            " Amat Victoria Curam ""',
   // if no resume, the button will not show up
 };
 
@@ -35,7 +35,7 @@ export const projectsData = [
     img: 'coding.jpeg',
     title: 'Programming',
     info:
-      "I love coding. I' written many programs in class, and also have some projects. I also love web development and enjoy working with the react library for the frontend and node for the backend. My favorite stack to work with is the MERN stack",
+      "I love coding. I have written many programs in class, and also have some projects. I also love web development and enjoy working with the react library for the frontend and node for the backend. My favorite stack to work with is the MERN stack",
     info2:
       'My favorite operating system is macOS because of its versatility and security. The creativity never stops for me on macOS-- afterall this website was created on my MacBook Pro. Here are some other projects I have created on my MacBook.',
     url: '',
